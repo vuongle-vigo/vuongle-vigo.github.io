@@ -1,2 +1,3 @@
 bundle exec jekyll serve --livereload
 jekyll new myblog
+bundle exec jekyll build
